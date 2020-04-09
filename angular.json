@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "coronaDashbord"
+    }
+  },
+  "defaultProject": "coronaDashbord",
+  "cli": {
+    "analytics": false
+  }
 }
